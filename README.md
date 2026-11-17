@@ -24,7 +24,7 @@ I'm a mobile engineer (SDE II) at Lumos Labs in Bengaluru, working in gaming ana
   <a href="https://github.com/jalakamkiran/expense_tracker">Expense Tracker</a>
 </p>
 
-<img src="./assets/interests.svg" width="100%" alt="Also: badminton, swim, run, chess."/>
+<img src="./assets/interests.svg" width="100%" alt="Also: badminton, swim, gym, chess."/>
 
 <br/>
 
